@@ -1,0 +1,12 @@
+#content {width: 300px; padding: 0.5rem; border: 1px solid #ccc; margin-top: 7px; margin-right: 0.5rem;}
+.conts {margin-top: 1rem;}
+.conts > li {padding: 0.35rem;}
+.form-group {display: flex; align-items: baseline;}
+
+
+.signs {display: flex; align-items: center; margin-top: 2rem; border: 1px solid #ccc; border-radius: 6px; padding: 0.5rem;}
+.signs > .photos {width: 40px; height: 40px; overflow: hidden; border-radius: 50%; border: 1px solid #bbb; margin-right: 1rem;}
+.signs > .conts {margin-right: 1rem;}
+.signs > .bts {padding-top: 0.25rem;} 
+
+.table_bar {width: 100%; background-color: #222; color: #fff; margin-top: 1rem; }
